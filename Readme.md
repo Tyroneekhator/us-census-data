@@ -1,7 +1,7 @@
 ### US-Census data analysis 
----
+--
 # dashboard
-<img src="C:\Users\ekhat\Downloads\edx-power-bi-exercise-files\Week 1\dashboard.png">
+<img src="C:\Users\ekhat\Downloads\edx-power-bi-exercise-files\Week 1\dashboard.png"/>
 
 
 ## Overview
@@ -18,13 +18,13 @@ Created a dashboard showing various analyses such as:
 # Slicer population growth 
 Moreover, used a slicer to show population growth by state
 ---
-<img src= "C:\Users\ekhat\Downloads\edx-power-bi-exercise-files\Week 1\Screenshot (432).png">
+<img src= "C:\Users\ekhat\Downloads\edx-power-bi-exercise-files\Week 1\Screenshot (432).png"/>
 
 
 # Tooltip 
 ---
 Lastly, a tooltip was created to help the user see the see population for each state on any analysis chart.
-- <img src="C:\Users\ekhat\Downloads\edx-power-bi-exercise-files\Week 1\Screenshot (433).png">
-- <img src="C:\Users\ekhat\Downloads\edx-power-bi-exercise-files\Week 1\Screenshot (434).png">
+- <img src="C:\Users\ekhat\Downloads\edx-power-bi-exercise-files\Week 1\Screenshot (433).png"/>
+- <img src="C:\Users\ekhat\Downloads\edx-power-bi-exercise-files\Week 1\Screenshot (434).png"/>
 
 

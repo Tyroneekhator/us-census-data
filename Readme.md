@@ -6,7 +6,7 @@
 
 ## Overview
 ---
-This analysis is based on the GDP and populuation of the US from 1950 to 2015
+This analysis is based on the GDP and population of the US from 1950 to 2015
 Created a dashboard showing various analyses such as:
 - USA by region.
 - Census region name

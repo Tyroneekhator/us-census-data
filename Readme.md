@@ -1,6 +1,6 @@
-### US-Census data analysis 
---
-# dashboard
+# US-Census data analysis 
+
+## dashboard
 <img src="dashboard.png"/>
 
 
@@ -15,13 +15,13 @@ Created a dashboard showing various analyses such as:
 - Note: 3 excel files were used to make the dashboard
 
 --- 
-# Slicer population growth 
+## Slicer population growth 
 Moreover, used a slicer to show population growth by state
 ---
 <img src= "Screenshot (432).png"/>
 
 
-# Tooltip 
+## Tooltip 
 ---
 Lastly, a tooltip was created to help the user see the see population for each state on any analysis chart.
 - <img src="Screenshot (433).png"/>

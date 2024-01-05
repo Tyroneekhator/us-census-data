@@ -1,7 +1,7 @@
 ### US-Census data analysis 
 --
 # dashboard
-<img src="C:\Users\ekhat\Downloads\edx-power-bi-exercise-files\Week 1\dashboard.png"/>
+<img src="dashboard.png"/>
 
 
 ## Overview

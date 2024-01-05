@@ -1,6 +1,6 @@
 # US-Census data analysis 
 
-## dashboard
+## dashboard(Power BI)
 <img src="dashboard.png"/>
 
 

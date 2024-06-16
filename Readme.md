@@ -1,6 +1,6 @@
 # US-Census data analysis 
 ## Table of contents
--[Glossary](#glossary)
+- [Glossary](#glossary)
 - [Project Overview](#project-overview)
 - [Report](#report)
 - [Filter page table](#filter-page-table)

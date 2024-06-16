@@ -1,4 +1,14 @@
 # US-Census data analysis 
+## Table of contents
+-[Glossary](#glossary)
+- [Project Overview](#project-overview)
+- [Report](#report)
+- [Filter page table](#filter-page-table)
+- [Data sources](#data-sources)
+- [Dataset columns in the report](#dataset-columns-in-the-report)
+- [Tools used](#tools-used)
+- [Data cleaning and transformation process](#data-cleaning-and-transformation-process)
+  
 ## Glossary
 - Region: An area, especially part of a country or the world having definable characteristics but not always fixed boundaries.
 - Census:  A periodic governmental count of a population that usually includes social and economic information.
